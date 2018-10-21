@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/smoothdnd/precache-manifest.69ee6f0551d92c7370d89b399e886308.js"
+  "/smoothdnd/precache-manifest.dd6919d1e8108ad8c7596aa6ef705140.js"
 );
 
 workbox.clientsClaim();
