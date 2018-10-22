@@ -1,7 +1,7 @@
 {
   "main.css": "/smoothdnd/static/css/main.d8f5276a.chunk.css",
-  "main.js": "/smoothdnd/static/js/main.f3dbe644.chunk.js",
-  "main.js.map": "/smoothdnd/static/js/main.f3dbe644.chunk.js.map",
+  "main.js": "/smoothdnd/static/js/main.960856c7.chunk.js",
+  "main.js.map": "/smoothdnd/static/js/main.960856c7.chunk.js.map",
   "static/js/1.1ed744f0.chunk.js": "/smoothdnd/static/js/1.1ed744f0.chunk.js",
   "static/js/1.1ed744f0.chunk.js.map": "/smoothdnd/static/js/1.1ed744f0.chunk.js.map",
   "runtime~main.js": "/smoothdnd/static/js/runtime~main.59ef9398.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/smoothdnd/static/media/logo.5d5d9eef.svg",
   "static/css/main.d8f5276a.chunk.css.map": "/smoothdnd/static/css/main.d8f5276a.chunk.css.map",
   "index.html": "/smoothdnd/index.html",
-  "precache-manifest.ae7fa41c31cb1c100aced35b89d69d4c.js": "/smoothdnd/precache-manifest.ae7fa41c31cb1c100aced35b89d69d4c.js",
+  "precache-manifest.3a585116d3e284f5f2e88e3c2c6edd81.js": "/smoothdnd/precache-manifest.3a585116d3e284f5f2e88e3c2c6edd81.js",
   "service-worker.js": "/smoothdnd/service-worker.js"
 }
