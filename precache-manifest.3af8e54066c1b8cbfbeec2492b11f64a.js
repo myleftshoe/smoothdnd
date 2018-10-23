@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/smoothdnd/static/js/runtime~main.59ef9398.js"
   },
   {
-    "revision": "b4ba430224db16a6d846",
-    "url": "/smoothdnd/static/js/main.b4ba4302.chunk.js"
+    "revision": "fbb11bf51a79c51ffaaa",
+    "url": "/smoothdnd/static/js/main.fbb11bf5.chunk.js"
   },
   {
     "revision": "1ed744f0fd935e06b7d2",
     "url": "/smoothdnd/static/js/1.1ed744f0.chunk.js"
   },
   {
-    "revision": "b4ba430224db16a6d846",
-    "url": "/smoothdnd/static/css/main.e1fb7c72.chunk.css"
+    "revision": "fbb11bf51a79c51ffaaa",
+    "url": "/smoothdnd/static/css/main.2958d25f.chunk.css"
   },
   {
-    "revision": "49d5367338e9a2ec28812067b4c411b4",
+    "revision": "33006db6f018b50f208f7b9130f9207c",
     "url": "/smoothdnd/index.html"
   }
 ];
